@@ -168,7 +168,7 @@ header{
 .destinations .bx-up-arrow-circle{
  z-index: 459;
  position: absolute;
- left: 50%;
+ left: 45%;
  font-size: 35px;
  top: 20px;
  color: white;
@@ -176,7 +176,7 @@ header{
 .destinations .bx-down-arrow-circle{
  z-index: 459;
  position: absolute;
- left: 50%;
+ left: 45%;
  font-size: 35px;
  bottom: 20px;
  color: white;
